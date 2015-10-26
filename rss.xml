@@ -2,35 +2,35 @@
     <channel>
         <title><![CDATA[This is just a test]]></title>
         <description><![CDATA[This is just a test]]></description>
-        <link>https://thegrid.ai/test5962/</link>
+        <link>http://thisisatest.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 22:12:03 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/test5962/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 26 Oct 2015 22:16:29 GMT</lastBuildDate>
+        <atom:link href="http://thisisatest.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[htrhrt jt45ju45tj4t]]></title>
             <description><![CDATA[<article><h1>htrhrt jt45ju45tj4t</h1><p>jtrjrttrjrjr</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21278780-17a0-47a5-9ac8-f6a624cb4a45.jpg"></article>]]></description>
-            <link>https://thegrid.ai/test5962/htrhrt-jt45ju45tj4t/index.html</link>
+            <link>http://thisisatest.com/htrhrt-jt45ju45tj4t/index.html</link>
             <guid isPermaLink="false">50ccbd2b-fafa-40bc-b84e-0b05eb4e5d2b</guid>
-            <pubDate>Mon, 26 Oct 2015 22:11:19 GMT</pubDate>
+            <pubDate>Mon, 26 Oct 2015 22:16:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is some text</p>]]></description>
-            <link>https://thegrid.ai/test5962/9697f7a6-7578-42a0-978a-7a541b29a448/index.html</link>
+            <link>http://thisisatest.com/9697f7a6-7578-42a0-978a-7a541b29a448/index.html</link>
             <guid isPermaLink="false">9697f7a6-7578-42a0-978a-7a541b29a448</guid>
             <pubDate>Mon, 26 Oct 2015 22:06:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>https://thegrid.ai/test5962/getting-started-on-the-grid/index.html</link>
+            <link>http://thisisatest.com/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">7be2e199-6b53-43ec-b0bd-72a3ccd4994a</guid>
             <pubDate>Mon, 26 Oct 2015 21:51:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This is a very first post]]></title>
             <description><![CDATA[<article><h1>This is a very first post</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ccd8196-6652-4cc0-826f-0467d240a296.JPG"></article>]]></description>
-            <link>https://thegrid.ai/test5962/this-is-a-very-first-post/index.html</link>
+            <link>http://thisisatest.com/this-is-a-very-first-post/index.html</link>
             <guid isPermaLink="false">80e1e1a6-4af7-44c1-a4f1-869fb8645ebe</guid>
             <pubDate>Mon, 26 Oct 2015 21:56:23 GMT</pubDate>
         </item>
