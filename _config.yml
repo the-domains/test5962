@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.9997686119750142
   saturation: 0.5981932294089347
   rhythmicContrast: 0.46470258478075266
