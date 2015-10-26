@@ -4,7 +4,7 @@
         <description><![CDATA[This is just a test]]></description>
         <link>https://thegrid.ai/test5962/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 21:52:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 21:57:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test5962/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[This is a very first post]]></title>
-            <description><![CDATA[<h1>This is a very first post</h1>]]></description>
+            <description><![CDATA[<article><h1>This is a very first post</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ccd8196-6652-4cc0-826f-0467d240a296.JPG"></article>]]></description>
             <link>https://thegrid.ai/test5962/this-is-a-very-first-post/index.html</link>
             <guid isPermaLink="false">80e1e1a6-4af7-44c1-a4f1-869fb8645ebe</guid>
-            <pubDate>Mon, 26 Oct 2015 21:51:52 GMT</pubDate>
+            <pubDate>Mon, 26 Oct 2015 21:56:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
