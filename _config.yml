@@ -1,0 +1,23 @@
+name: Test5962
+favicon: null
+layout_spectrum: 0.25942878774367273
+typography_spectrum: 0.8200434735044837
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3162044552154839
+  lightness: 0.9997686119750142
+  saturation: 0.5981932294089347
+  rhythmicContrast: 0.46470258478075266
+purpose: []
