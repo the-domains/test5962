@@ -1,5 +1,8 @@
+name: Test5962
+favicon: null
+layout_spectrum: 0.51739
+typography_spectrum: 1
 title: This is just a test
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.5981932
-  lightness: 0.5617021
-  brandStrength: 1
-  brandColors:
-    - '#8F8970'
-    - '#1E1F20'
-    - '#DFD0BE'
-    - '#FF546D'
-    - '#FFFFFC'
-  rhythmicContrast: 0.4647026
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: Test5962
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 1
-layout_spectrum: 0.51739
+color:
+  brandColors:
+    - '#ffffff'
+    - '#171216'
+    - '#d0c9eb'
+    - '#c18191'
+    - '#c4442b'
+  brandStrength: 1
+  lightness: 0.5617021
+  saturation: 0.5981932
+  rhythmicContrast: 0.4647026
+purpose: []
