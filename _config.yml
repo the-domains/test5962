@@ -1,5 +1,8 @@
+name: Test5962
+favicon: null
+layout_spectrum: 0.51739
+typography_spectrum: 0.2645
 title: This is just a test
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  lightness: 0.5
-  brandStrength: 0.6148936
   brandColors:
     - '#FFFFE9'
     - '#F1D1B4'
     - '#B57664'
     - '#774C42'
     - '#211D1F'
+  brandStrength: 0.6148936
+  lightness: 0.5
+  saturation: 0
   rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Test5962
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.52459
-layout_spectrum: 0.51739
+purpose: []
